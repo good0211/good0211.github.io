@@ -68,17 +68,15 @@ input {
     background-position: absolute;
     background-repeat: no-repeat;
     background-size: auto;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
 
 .welcome {
-    background-color: #222;
+    background-color: rgba(0,0,0,0.7);
     background-position: center;
-    opacity: 0.75;
     padding: 20px;
+    color: white;
 }
 
 h1 {
